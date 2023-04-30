@@ -225,11 +225,12 @@ The dataset consists of four parts:
 
 3. Knowledge entity dataset:
 
-    Contains partial summary data, manually processed and proofread.
+    Contains partial abstract data, manually processed and proofread.
 
-4. Knowledge entity dataset: 
+4. Abstract dataset (sentences + entities): 
 
-   All summary data, pre-labeled entity dataset of the model, and the data is relatively rough.
+   All abstract data, pre-labeled dataset for the model, coarser data.
+
 
 
 
