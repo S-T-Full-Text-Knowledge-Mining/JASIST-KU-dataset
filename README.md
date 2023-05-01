@@ -217,7 +217,7 @@ The dataset consists of four parts:
 
 1. Knowledge Graph：
 
-   "Entity-relationship" knowledge graph based on Linked Data. (Coming Soon……)
+   "Entity-relationship" knowledge graph based on Linked Data.
 
 2. Research sentence dataset: 
 
