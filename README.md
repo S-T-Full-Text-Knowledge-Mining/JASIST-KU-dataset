@@ -221,7 +221,7 @@ The dataset consists of four parts:
 
 2. Research sentence dataset: 
 
-   Contains full-text data from 2010 to June 2020, the data is relatively rough.
+   Contains full-text data from 2010 to June 2020.
 
 3. Knowledge entity dataset:
 
@@ -229,7 +229,7 @@ The dataset consists of four parts:
 
 4. Abstract dataset (sentences + entities): 
 
-   All abstract data, pre-labeled dataset for the model, coarser data.
+   All abstract data, pre-labeled dataset for the model.
 
 
 
