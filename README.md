@@ -229,7 +229,7 @@ The dataset consists of four parts:
 
 4. Abstract dataset (sentences + entities): 
 
-   All abstract data, pre-labeled dataset for the model.
+   All abstract data dataset.
 
 
 
