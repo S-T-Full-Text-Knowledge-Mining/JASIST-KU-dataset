@@ -1,4 +1,5 @@
 # JASIST-KU-dataset
+
 The datasets of the knowledge unit for the Journal of the Association for Information Science and Technology (JASIST)
 
 
@@ -235,3 +236,10 @@ Example4：
 
 作者团队不就使用该数据集造成的任何分析结果、民事纠纷负责。
 
+
+
+## 如何获取数据
+
+如果您想要获取具体的数据，您可以发送邮件联系我们。
+
+Email: jisuanyuyan@163.com
