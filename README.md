@@ -225,7 +225,7 @@ The dataset consists of four parts:
 
 3. Knowledge entity dataset:
 
-    Contains partial abstract data, manually processed and proofread.
+   Contains partial abstract data, manually processed and proofread.
 
 4. Abstract dataset (sentences + entities): 
 
@@ -246,3 +246,10 @@ The dataset may be used for academic research purposes only and should not be us
 
 The author team is not responsible for any analysis results or civil disputes resulting from the use of this dataset.
 
+
+
+## How to request data
+
+If you want to obtain data, you can send an email to contact us.
+
+Email: jisuanyuyan@163.com
